@@ -1,0 +1,14 @@
+[rtlauncher:container$] INFO Container start took 2679. Ready to accept admin requests.
+2鏈?01, 2021 4:29:01 涓嬪崍 org.hsqldb.persist.Logger logInfoEvent
+淇℃伅: checkpointClose start
+2鏈?01, 2021 4:29:01 涓嬪崍 org.hsqldb.persist.Logger logInfoEvent
+淇℃伅: checkpointClose synched
+2鏈?01, 2021 4:29:01 涓嬪崍 org.hsqldb.persist.Logger logInfoEvent
+淇℃伅: checkpointClose script done
+2鏈?01, 2021 4:29:01 涓嬪崍 org.hsqldb.persist.Logger logInfoEvent
+淇℃伅: checkpointClose end
+Feb 01, 2021 5:41:08 PM org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+
+
+

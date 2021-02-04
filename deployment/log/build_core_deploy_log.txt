@@ -1,0 +1,9 @@
+Buildfile: e:\Users\wu_zj\Documents\Mendix\App\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 32 files to e:\Users\wu_zj\Documents\Mendix\App\deployment
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

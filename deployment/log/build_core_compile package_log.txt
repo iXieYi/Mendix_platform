@@ -1,0 +1,12 @@
+Buildfile: e:\Users\wu_zj\Documents\Mendix\App\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 1 source file to e:\Users\wu_zj\Documents\Mendix\App\deployment\run\bin
+
+package:
+      [jar] Building jar: e:\Users\wu_zj\Documents\Mendix\App\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+
