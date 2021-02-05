@@ -1,9 +1,0 @@
-Buildfile: e:\Users\wu_zj\Documents\Mendix\App\deployment\build_core.xml
-
-clean:
-   [delete] Deleting directory e:\Users\wu_zj\Documents\Mendix\App\deployment\model
-
-BUILD SUCCESSFUL
-Total time: 0 seconds
-
-
