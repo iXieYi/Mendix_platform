@@ -1,7 +1,8 @@
-Buildfile: e:\Users\wu_zj\Documents\Mendix\App\deployment\build_core.xml
+Buildfile: C:\Users\Administrator\Documents\Mendix_platform\deployment\build_core.xml
 
 deploy:
-     [copy] Copying 32 files to e:\Users\wu_zj\Documents\Mendix\App\deployment
+     [copy] Copying 33 files to C:\Users\Administrator\Documents\Mendix_platform\deployment
+     [copy] Copying 31 files to C:\Users\Administrator\Documents\Mendix_platform\deployment\model\lib\userlib
 
 BUILD SUCCESSFUL
 Total time: 0 seconds

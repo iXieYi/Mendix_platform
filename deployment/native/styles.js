@@ -1,3 +1,3 @@
-import * as style0 from "e:/Users/wu_zj/Documents/Mendix/App/theme/styles";
+import * as style0 from "C:/Users/Administrator/Documents/Mendix_platform/theme/styles";
 
 module.exports = { ...style0 };
